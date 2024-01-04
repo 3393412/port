@@ -82,9 +82,6 @@ class kkk:
             elif k > 25:
                 print(f"Please do something else other than sleep")
                 dday = base_days
-            elif k > 20:
-                print(f"you have over sleep {k - 20} hours")
-                break
             else:
                 print(f"you haveno sleep debt")
                 break
